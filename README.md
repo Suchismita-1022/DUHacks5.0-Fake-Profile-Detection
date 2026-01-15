@@ -52,6 +52,7 @@ The following table shows the comparison between baseline and final models:
 
 ### 📐Confusion Matrix
 
+![WhatsApp Image 2026-01-15 at 4 05 32 PM](https://github.com/user-attachments/assets/48a87b70-c51f-459b-a530-b0fbdcf3c590)
 
 
 **📌 Observation:**  
@@ -146,12 +147,14 @@ The web layer does not contain ML logic.
 
 ## 📸 Screenshots
 
-**When It is a Genuine Profile**
+- **When It is a Genuine Profile:-**
+
+<img width="1920" height="1193" alt="screencapture-127-0-0-1-5000-predict-2026-01-15-15_50_25" src="https://github.com/user-attachments/assets/27813007-d0e6-4cf9-aedb-bdbc555c8723" />
 
 
+- **When It is a Fake Profile:-**
 
-**When It is a Fake Profile**
-
+<img width="1920" height="1193" alt="screencapture-127-0-0-1-5000-predict-2026-01-15-15_48_07" src="https://github.com/user-attachments/assets/c173a590-04e8-48ac-bc41-ff7e2d2cd533" />
 
 
 ## 🛠️ Installation & Usage
